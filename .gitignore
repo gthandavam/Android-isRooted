@@ -1,0 +1,14 @@
+CheckRootedProject/CheckRooted/build/*
+CheckRootedProject/.gradle/*
+CheckRootedProject/.idea/*
+CheckRootedProject/CheckRooted/libs/*
+CheckRootedProject/gradle/*
+CheckRootedProject/CheckRooted/CheckRooted.iml
+CheckRootedProject/CheckRooted/build.gradle
+CheckRootedProject/CheckRootedProject.iml
+CheckRootedProject/build.gradle
+CheckRootedProject/gradlew
+CheckRootedProject/gradlew.bat
+CheckRootedProject/local.properties
+CheckRootedProject/settings.gradle
+
